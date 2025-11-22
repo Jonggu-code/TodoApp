@@ -8,8 +8,7 @@ React + TypeScript 기반에서 상태 관리 / 커스텀 훅 / 아키텍처 설
 종합적으로 경험하기 위해 제작했습니다.
 
 ## 🌐 배포 주소
-
-Vercel 배포 링크
+https://todo-app-xi-peach.vercel.app/
 
 ## 🎯 프로젝트 목적과 의도
 
