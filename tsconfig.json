@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", // 최신 JS 문법으로 컴파일
+    "lib": ["DOM", "DOM.Iterable", "ESNext"], // 브라우저 API 사용 가능
+    "jsx": "react-jsx", // React 17+ JSX 변환 방식
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "strict": true, // 엄격한 타입 검사 활성화
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src"]
+}
